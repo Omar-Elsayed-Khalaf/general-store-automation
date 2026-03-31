@@ -1,0 +1,28 @@
+node_modules/
+dist/
+
+# Test output
+.wdio-logs/
+allure-results/
+allure-report/
+test-results/
+playwright-report/
+screenshots/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Claude
+.claude/
